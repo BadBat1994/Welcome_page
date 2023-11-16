@@ -1,3 +1,4 @@
-# Welcome_page
+# Primer-Proyecto
+Primer Proyecto correspondiente a la tarea de la semana 3 del curso Fundamentos de Android.
 
-#Git creado para mi primer proyecto de android para coursera
+Aquí se insertarán los comentarios sobre las correcciones hechas.
